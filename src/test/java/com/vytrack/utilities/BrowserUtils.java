@@ -351,7 +351,7 @@ public class BrowserUtils {
     /**
      * executes the given JavaScript command on given web element
      *
-     * @param command
+     * @param
      */
     public static void executeJScommand(String command) {
         JavascriptExecutor jse = (JavascriptExecutor) Driver.get();
